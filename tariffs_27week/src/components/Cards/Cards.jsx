@@ -1,6 +1,7 @@
 import React from 'react';
 import style from './style.module.scss';
 import CSSModules from 'react-css-modules';
+import data from '../../data.json'
 
 import './themes/blue.scss';
 import './themes/green.scss';
